@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\upgift1-iths.props" />
+</Project>

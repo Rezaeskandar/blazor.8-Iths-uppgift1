@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\src\\iths\\upgift1-iths\\upgift1-iths\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\upgift1-iths.bundle.scp.css",
+      "PackagePath": "staticwebassets\\upgift1-iths.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\src\\iths\\upgift1-iths\\upgift1-iths\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\src\\iths\\upgift1-iths\\upgift1-iths\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\src\\iths\\upgift1-iths\\upgift1-iths\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\src\\iths\\upgift1-iths\\upgift1-iths\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.upgift1-iths.props",
+      "PackagePath": "build\\upgift1-iths.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.upgift1-iths.props",
+      "PackagePath": "buildMultiTargeting\\upgift1-iths.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.upgift1-iths.props",
+      "PackagePath": "buildTransitive\\upgift1-iths.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.upgift1-iths.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
